@@ -1,6 +1,5 @@
-
 .cache/*
-
+.bundle/*
 *.swp
-
 *.sqlite
+Gemfile.lock
